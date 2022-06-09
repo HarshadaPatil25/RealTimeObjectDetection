@@ -13,7 +13,7 @@ import pandas as pd
 
 # In[4]:
 
-
+#add the path of folder you want to save images
 IMAGES_PATH = 'Tensorflow/workspace/images/collectedimages'
 
 
